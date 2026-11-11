@@ -1,2 +1,2 @@
 # chess_tilt
-After a loss, do players perform worse in their next game? 
+Research Question: In blitz chess, after a loss, do players perform worse in their next game? 
